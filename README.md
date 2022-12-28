@@ -117,3 +117,10 @@ function who_download_list(id, area) {
 ```
   
 </details>
+
+## Использование
+В шаблоне `attachment.tpl` на своё усмотрение размещаете ссылку\кнопку\объект. Которому предписываете вызов функции `who_download_list({id}, {area})`.
+Пример
+```html
+<span onclick="who_download_list({id}, {area})">Кто скачал ?</span>
+```
