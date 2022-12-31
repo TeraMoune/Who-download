@@ -125,3 +125,5 @@ function who_download_list(id, area) {
 ```html
 <span onclick="who_download_list({id}, {area})">Кто скачал ?</span>
 ```
+
+> Для ограничения групп в массиве `$not_allow_group`, что в правках файла `engine/download.php`, можно указать ID групп учёт которых не производить.
