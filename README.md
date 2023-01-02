@@ -3,6 +3,8 @@
 
 Версия DLE: 15.1 (На более ранних не проверялось)
 
+:exclamation: Требуется наличие JavaScript плагина [magnific-popup](https://dimsemenov.com/plugins/magnific-popup/) (Устанавливается отдельно)
+
 <details>
 	<summary>CSS code</summary>
   
